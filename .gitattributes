@@ -1,0 +1,2 @@
+# Removes CSS from Used Lang from Github
+*.ejs linguist-detectable=false
